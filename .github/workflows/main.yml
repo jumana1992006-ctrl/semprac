@@ -1,5 +1,5 @@
 name:Running Test
-on:
+  on:
   push:
     branches:["main"]
   pull_requests:
